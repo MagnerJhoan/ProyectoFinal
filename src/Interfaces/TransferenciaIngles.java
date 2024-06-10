@@ -19,7 +19,7 @@ import java.time.format.DateTimeFormatter; // Importa la clase DateTimeFormatter
  * @author MAGNER
  */
 /**
- * Clase Transferencia que representa la interfaz para realizar transferencias entre cuentas.
+ * Clase TransferenciaIngles que representa la interfaz para realizar transferencias entre cuentas.
  */
 public class TransferenciaIngles extends javax.swing.JFrame {
      public int numeroCuenta=000; // Variable para almacenar el número de cuenta

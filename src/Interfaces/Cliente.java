@@ -4,14 +4,17 @@
  */
 package Interfaces;
 
-import java.io.Serializable;
-import java.util.ArrayList;
+import java.io.Serializable; // Importa la interfaz Serializable para permitir la serialización de objetos
+import java.util.ArrayList; // Importa la clase ArrayList para usar listas dinámicas
 /**
  * 
  *
  * @author MAGNER
  */
-// Declaración de la clase Cliente que implementa Serializable
+/**
+ * Define la clase Cliente que implementa la interfaz Serializable.
+ * Representa a un cliente del sistema bancario y contiene sus datos personales y una lista de cuentas asociadas.
+ */
 public class Cliente implements Serializable {
     // Declaración de variables miembro de la clase Cliente
     public String nombre; // Nombre del cliente

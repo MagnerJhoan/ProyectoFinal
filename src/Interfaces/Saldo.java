@@ -16,7 +16,7 @@ import java.io.ObjectOutputStream; // Importa la clase ObjectOutputStream del pa
  * @author MAGNER
  */
 /**
- * Clase Saldo que representa la interfaz para consultar el saldo.
+ * Clase Saldo que representa la interfaz para consultar el saldo
  */
 public class Saldo extends javax.swing.JFrame {
     public String usuario = "null"; // Variable para almacenar el nombre de usuario

@@ -13,6 +13,10 @@ import java.io.ObjectOutputStream; // Importa la clase ObjectOutputStream para e
  *
  * @author MAGNER
  */
+/**
+ * Define la clase DepositoIngles que extiende de javax.swing.JFrame, que representa la ventana de depósito.
+ * Contiene métodos para cargar y actualizar datos desde/hacia un archivo.
+ */
 public class DepositoIngles extends javax.swing.JFrame {
 
     // Variables de instancia

@@ -10,7 +10,7 @@ import java.util.ArrayList; // Importa la clase ArrayList del paquete java.util 
  * @author MAGNER
  */
 /**
- * Clase Principal que representa la gestión principal del programa.
+ * Clase Principal que representa la gestión principal del programa
  * Implementa la interfaz Serializable para permitir la serialización.
  */
 public class Principal implements Serializable {

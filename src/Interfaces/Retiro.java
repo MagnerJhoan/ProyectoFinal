@@ -18,7 +18,7 @@ import javax.swing.JOptionPane; // Importa la clase JOptionPane del paquete java
  * @author MAGNER
  */
 /**
- * Clase Retiro que representa la interfaz de retiro de dinero.
+ * Clase Retiro que representa la interfaz de retiro de dinero
  */
 public class Retiro extends javax.swing.JFrame {
     public Principal principal = new Principal(); // Instancia de la clase Principal

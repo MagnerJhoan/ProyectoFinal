@@ -9,7 +9,7 @@ import java.io.Serializable;
  * @author MAGNER
  */
 /**
- * La clase Historia representa un registro de historial de transacciones.
+ * La clase Historia representa el registro de historial de transacciones.
  * Implementa la interfaz Serializable para permitir la serialización de objetos.
  */
 public class Historia implements Serializable {

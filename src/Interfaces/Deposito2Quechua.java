@@ -15,6 +15,10 @@ import java.time.format.DateTimeFormatter; // Importa la clase DateTimeFormatter
  *
  * @author MAGNER
  */
+/**
+ * Define la clase Deposito2Quechua que extiende de javax.swing.JFrame, que representa la ventana de depósito.
+ * Contiene métodos para cargar y actualizar datos desde/hacia un archivo.
+ */
 public class Deposito2Quechua extends javax.swing.JFrame {
 
     // Variables de instancia

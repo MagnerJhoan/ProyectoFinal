@@ -14,6 +14,9 @@ import javax.swing.JOptionPane;
  *
  * @author MAGNER
  */
+/**
+ * Clase que representa la ventana de cambio de contraseña.
+ */
 public class CambioContrasenaIngles extends javax.swing.JFrame {
     // Declaración de variables
     public String usuario = ""; // Variable para almacenar el nombre de usuario

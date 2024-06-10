@@ -16,7 +16,7 @@ import java.io.ObjectOutputStream; // Importa la clase ObjectOutputStream del pa
  * @author MAGNER
  */
 /**
- * Clase que representa el menú de la aplicación.
+ * Clase que representa el menú de la aplicación
  * Extiende de JFrame para crear una ventana.
  */
 public class MenuQuechua extends javax.swing.JFrame {

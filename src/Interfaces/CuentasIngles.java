@@ -19,6 +19,10 @@ import javax.swing.JButton;
  *
  * @author MAGNER
  */
+/**
+ * Define la clase CuentasIngles que extiende de javax.swing.JFrame, que representa la ventana de cuentas.
+ * Contiene métodos para cargar y mostrar las cuentas asociadas a un usuario.
+ */
 public class CuentasIngles extends javax.swing.JFrame {
 
     // Variables de clase

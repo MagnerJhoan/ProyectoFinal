@@ -10,6 +10,11 @@ import java.io.Serializable;
  *
  * @author MAGNER
  */
+
+/**
+ * Define la clase DATOS que implementa la interfaz Serializable.
+ * Contiene variables de instancia y métodos para acceder a ellas.
+ */
 public class DATOS implements Serializable { // La clase implementa la interfaz Serializable para poder ser serializable
     // Variables de instancia
     public String numeroCuenta; // Número de cuenta

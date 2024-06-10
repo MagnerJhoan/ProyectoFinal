@@ -9,6 +9,10 @@ import java.time.format.DateTimeFormatter;
  *
  * @author MAGNER
  */
+/**
+ * Define la clase FacturaQuechua que extiende de javax.swing.JFrame, que representa la ventana de la factura.
+ * Contiene métodos para crear una instancia de la ventana de factura y para inicializarla.
+ */
 public class FacturaQuechua extends javax.swing.JFrame {
 
     /**

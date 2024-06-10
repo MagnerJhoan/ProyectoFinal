@@ -14,7 +14,7 @@ import java.io.ObjectOutputStream;
  * @author MAGNER
  */
 /**
- * La clase Finish proporciona una interfaz para mostrar un mensaje de finalización de transacción.
+ * La clase FinishIngles proporciona una interfaz para mostrar un mensaje de finalización de transacción.
  * Pregunta al usuario si desea realizar otra operación o salir.
  * Esta clase extiende javax.swing.JFrame para crear una ventana de finalización.
  */

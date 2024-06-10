@@ -16,7 +16,7 @@ import javax.swing.table.DefaultTableModel;
  * @author MAGNER
  */
 /**
- * La clase Historial representa la interfaz de usuario para mostrar el historial bancario de un usuario.
+ * La clase HistorialQuechua representa la interfaz de usuario para mostrar el historial bancario de un usuario.
  * Permite cargar el historial desde un archivo, buscar el historial de un número de cuenta específico y llenar una tabla con los registros del historial.
  */
 public class HistorialQuechua extends javax.swing.JFrame {

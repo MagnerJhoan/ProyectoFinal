@@ -9,7 +9,7 @@ package Interfaces;
  * @author Jhonny
  */
 /**
- * Clase principal que contiene el método main.
+ * Clase principal que contiene el método main
  */
 public class Mainn {
     /**

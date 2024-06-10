@@ -17,7 +17,7 @@ import javax.swing.table.DefaultTableModel;
  */
 /**
  * La clase Historial representa la interfaz de usuario para mostrar el historial bancario de un usuario.
- * Permite cargar el historial desde un archivo, buscar el historial de un número de cuenta específico y llenar una tabla con los registros del historial.
+ * Permite cargar el historial desde un archivo buscar el historial de un número de cuenta específico y llenar una tabla con los registros del historial.
  */
 public class Historial extends javax.swing.JFrame {
     DefaultTableModel modelo = new DefaultTableModel(); // Modelo para la tabla que muestra el historial

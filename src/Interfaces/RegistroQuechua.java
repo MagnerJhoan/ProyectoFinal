@@ -18,7 +18,7 @@ import javax.swing.JOptionPane; // Importa la clase JOptionPane del paquete java
  * @author MAGNER
  */
 /**
- * Clase Registro que representa la interfaz de registro de usuarios.
+ * Clase RegistroQuechua que representa la interfaz de registro de usuarios.
  */
 public class RegistroQuechua extends javax.swing.JFrame {
     public Principal principal = new Principal(); // Instancia de la clase Principal

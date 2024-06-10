@@ -33,7 +33,7 @@ public class Finish extends javax.swing.JFrame {
      */
     public Finish() {
         initComponents();
-        setLocationRelativeTo(null); // Establece la ubicación de la ventana en el centro de la pantalla
+        setLocationRelativeTo(null); // Establece la ubicación de la ventana en el centro de la pantalla.
     }
 
     /**

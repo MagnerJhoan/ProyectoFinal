@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
  * @author MAGNER
  */
 /**
- * La clase IngresoPin es una interfaz de usuario para ingresar el PIN de un usuario.
+ * La clase IngresoPin es una interfaz de usuario para ingresar el PIN de un usuario
  * Permite cargar los datos de usuarios desde un archivo y verificar la existencia del usuario y su contraseña.
  */
 public class IngresoPin extends javax.swing.JFrame {

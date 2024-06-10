@@ -3,17 +3,21 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
 package Interfaces;
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.ObjectInputStream;
-import java.io.ObjectOutputStream;
-import java.util.Random;
-import javax.swing.JOptionPane;
+import java.io.File; // Importa la clase File para manipulación de archivos
+import java.io.FileInputStream; // Importa la clase FileInputStream para leer datos de un archivo
+import java.io.FileOutputStream; // Importa la clase FileOutputStream para escribir datos en un archivo
+import java.io.IOException; // Importa la clase IOException para manejo de excepciones de entrada/salida
+import java.io.ObjectInputStream; // Importa la clase ObjectInputStream para leer objetos de un archivo
+import java.io.ObjectOutputStream; // Importa la clase ObjectOutputStream para escribir objetos en un archivo
+import java.util.Random; // Importa la clase Random para generación de números aleatorios
+import javax.swing.JOptionPane; // Importa la clase JOptionPane para mostrar mensajes al usuario
 /**
  *
  * @author MAGNER
+ */
+/**
+ * Define la clase CrearCuentaQuechua que extiende de javax.swing.JFrame, que representa la ventana para crear una cuenta.
+ * Contiene métodos para cargar y actualizar los datos desde/hacia un archivo, así como la lógica para la creación de cuentas.
  */
 public class CrearCuentaQuechua extends javax.swing.JFrame {
     // Declaración de variables miembro de la clase CrearCuenta

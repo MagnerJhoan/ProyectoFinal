@@ -4,13 +4,13 @@
  */
 package Interfaces;
 
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.IOException;
-import java.io.ObjectInputStream;
-import java.util.ArrayList;
-import javax.swing.table.DefaultTableModel;
-
+import java.io.File; // Importa la clase File del paquete java.io para manejar archivos
+import java.io.FileInputStream; // Importa la clase FileInputStream del paquete java.io para leer archivos de entrada
+import java.io.IOException; // Importa la clase IOException del paquete java.io para manejar excepciones de entrada/salida
+import java.io.ObjectInputStream; // Importa la clase ObjectInputStream del paquete java.io para leer objetos de un flujo de entrada
+import java.util.ArrayList; // Importa la clase ArrayList del paquete java.util para manejar listas dinámicas
+import javax.swing.table.DefaultTableModel; // Importa la clase DefaultTableModel del paquete javax.swing.table para manejar el modelo de la tabla en Swing
+// Define una clase BaseDeDatos que extiende JFrame de Swing
 public class BaseDeDatos extends javax.swing.JFrame {
     // Declaración de un objeto modelo para la tabla
     public DefaultTableModel modelo = new DefaultTableModel();

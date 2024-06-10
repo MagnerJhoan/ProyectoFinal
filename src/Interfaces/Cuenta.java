@@ -10,6 +10,10 @@ import java.util.ArrayList; // Importación de la clase ArrayList para usar list
  *
  * @author MAGNER
  */
+/**
+ * Define la clase Cuenta que implementa la interfaz Serializable.
+ * Contiene variables de instancia para representar los datos de una cuenta bancaria.
+ */
 public class Cuenta implements Serializable {
     // Declaración de variables miembro de la clase Cuenta
     public int numeroCuenta; // Número de cuenta

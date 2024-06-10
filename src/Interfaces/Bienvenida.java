@@ -8,6 +8,10 @@ package Interfaces;
  *
  * @author MAGNER
  */
+/**
+ * Clase Bienvenida que representa la ventana de bienvenida de la interfaz gráfica.
+ * Extiende javax.swing.JFrame para crear una ventana.
+ */
 public class Bienvenida extends javax.swing.JFrame {
 
     /**
